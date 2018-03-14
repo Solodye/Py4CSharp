@@ -1,0 +1,6 @@
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\bin\Debug\Client.exe.config
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\bin\Debug\Client.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\bin\Debug\Client.pdb
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\obj\Debug\Client.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\Client\obj\Debug\Client.pdb

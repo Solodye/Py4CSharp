@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EB39FE22-2343-41CA-9251-1CC85B662FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClientScript", "TestClientScript\TestClientScript.csproj", "{64B03789-8DEF-4492-B7C0-D91B264D677B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicManipulation", "PicManipulation\PicManipulation.csproj", "{F3DE8525-40C2-444F-A041-E0EF9C698986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB39FE22-2343-41CA-9251-1CC85B662FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB39FE22-2343-41CA-9251-1CC85B662FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB39FE22-2343-41CA-9251-1CC85B662FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB39FE22-2343-41CA-9251-1CC85B662FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B03789-8DEF-4492-B7C0-D91B264D677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B03789-8DEF-4492-B7C0-D91B264D677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B03789-8DEF-4492-B7C0-D91B264D677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B03789-8DEF-4492-B7C0-D91B264D677B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DE8525-40C2-444F-A041-E0EF9C698986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DE8525-40C2-444F-A041-E0EF9C698986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DE8525-40C2-444F-A041-E0EF9C698986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DE8525-40C2-444F-A041-E0EF9C698986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

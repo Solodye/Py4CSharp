@@ -1,0 +1,10 @@
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\TestClientScript.exe.config
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\TestClientScript.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\TestClientScript.pdb
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\Client.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\Client.pdb
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\obj\Debug\TestClientScript.csprojResolveAssemblyReference.cache
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\obj\Debug\TestClientScript.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\obj\Debug\TestClientScript.pdb
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\PicManipulation.exe
+D:\数据\开发\__组内项目__\SocketCPY\CSharpClient\Client\TestClientScript\bin\Debug\PicManipulation.pdb
