@@ -132,7 +132,7 @@ class MatchPicture(IBinaryFileMethod):
 
     def __recog(self, mebpic_path_str):
         # 这里加上人脸识别的代码即可
-
+        print("hello git!")
         return 'True'
 
 
